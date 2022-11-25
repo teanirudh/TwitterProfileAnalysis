@@ -1,0 +1,5 @@
+Get your own twitter account data using Twitter API.
+Create a graph using NetworkX library. 
+Find out the top 10 people with highest betweenness-centrality in the network.
+Display the network by changing size and color of the nodes according to its rank.
+Display the statistics of top 10 people in the network in a table.
